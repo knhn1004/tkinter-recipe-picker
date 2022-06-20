@@ -1,0 +1,6 @@
+autopep8==1.6.0
+numpy==1.22.4
+Pillow==9.1.1
+pycodestyle==2.8.0
+pyglet==1.5.26
+toml==0.10.2
