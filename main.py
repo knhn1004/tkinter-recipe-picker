@@ -148,5 +148,6 @@ for frame in (frame1, frame2,):
 
 load_frame1()
 
-# run app
-root.mainloop()
+
+if __name__ == '__main__':
+    root.mainloop()
